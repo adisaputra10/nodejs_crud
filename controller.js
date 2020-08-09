@@ -11,5 +11,5 @@ exports.users = function(req, res) {
  });
 };
 exports.index = function(req, res) {
- response.ok("Hello from the Node JS RESTful side update index!", res)
+ response.ok("Hello from the Node JS RESTful side update index! kiki", res)
 };
